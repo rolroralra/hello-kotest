@@ -1,0 +1,11 @@
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+.idea/
+*.iml
+out/
+.kotlin/
+.DS_Store
+
+# Claude Code local settings
+.claude/settings.local.json
